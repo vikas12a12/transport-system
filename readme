@@ -1,0 +1,24 @@
+# 🚖 Transport Booking & Tracking System
+
+A dynamic multi-page transport booking website built using **Streamlit**.
+
+## Features
+- Multi-page navigation:
+  - **Home**
+  - **Book Ride**
+  - **Track Ride**
+  - **Admin Dashboard**
+  - **About / Help**
+- **User Authentication**
+  - Admin and normal users
+- **Booking System**
+  - Assigns driver randomly
+  - Calculates fare dynamically
+- **Ride Tracking**
+  - Shows last ride on a map (demo coordinates)
+- **Admin Dashboard**
+  - View all bookings
+  - Total revenue
+  - Update ride status
+
+## Folder Structure
